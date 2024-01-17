@@ -14,7 +14,6 @@ public class StudentList {
         Student[] student_list = new Student[3];
         
         student_list[0] = s1;
-        System.out.println("Third commit");
         student_list[1] = new Student(2,"ab");
         student_list[2] = new Student(3,"abcc");
         
