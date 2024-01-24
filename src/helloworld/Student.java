@@ -5,7 +5,7 @@
 package helloworld;
 
 /**
- *
+ * 
  * @author gur28
  */
 public class Student {
